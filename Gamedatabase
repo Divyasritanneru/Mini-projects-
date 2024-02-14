@@ -1,0 +1,57 @@
+dataset=[
+    {
+        'name':"JENNY'S LECTURES",
+        'follower_count':1,
+        'description':'youtuber',
+        'country':'India'
+    },
+    {   'name':"MAHENDRA SINGH DHONI",
+        'follower_count':30,
+        'description':'cricketer',
+        'country':'India'
+
+    },
+    {
+        'name':"ROHITH SHARMA",
+        'follower_count':29,
+        'description':'cricketer',
+        'country':'India'
+    },
+    {
+        'name':"PRABHAS",
+        'follower_count':10,
+        'description':'actor',
+        'country':'India'
+    },
+    {
+        'name':"RANBIR KAPOOR",
+        'follower_count':5,
+        'description':'actor',
+        'country':'India'
+    },
+    {
+        'name':"JUSTIN BIEBER",
+        'follower_count':100,
+        'description':'singer',
+        'country':'canada'
+        
+    },
+    {
+        'name':"SELENA GOMEZ",
+        'follower_count':500,
+        'description':'singer',
+        'country':'canada'
+    },
+    {
+        'name':"NARENDRA MODI",
+        'follower_count':50,
+        'description':'prime_minister',
+        'country':'India'
+    },
+    {
+        'name':"CRISTIANO RONALDO",
+        'follower_count':1000,
+        'description':'footballer',
+        'country':'portugal'
+    }
+]
